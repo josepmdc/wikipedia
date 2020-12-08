@@ -1,0 +1,96 @@
+body {
+    background-color: #fff0;
+}
+
+h1 {
+    border-bottom: 0px;
+}
+
+dl {
+    text-align: center;
+    margin: 40px 0;
+}
+
+#content {
+    margin: auto;
+    width: 35%;
+    text-align: justify;
+    margin-top: 30px;
+}
+
+.mw-body {
+    border-color: rgba(251, 251, 251, 0);
+}
+
+.infobox {
+    margin: 0 0 0 40px;
+}
+
+.thumb.tright {
+    margin: 0 0 20px 10px;
+}
+
+#mw-head {
+    display: none;
+}
+
+#mw-head-base {
+    display: none;
+}
+
+#mw-page-base {
+    display: none;
+}
+
+.mw-body-content {
+    font-size: 1em;
+}
+
+img {
+    background-color: white;
+    border-radius: 3px;
+    padding: 10px;
+}
+
+.thumbinner {
+    border: #fff0 !important;
+    background-color: #fff0 !important;
+    width: 100% !important;
+}
+
+.thumbimage {
+    border: #fff0 !important;
+}
+
+/*table.infobox:nth-child(1) {
+    position: absolute;
+    right: -50%;
+}*/
+
+#p-wikibase-otherprojects {
+    display: none;
+}
+
+#p-tb {
+    display: none;
+}
+
+
+#p-interaction {
+    display: none;
+}
+
+
+#p-navigation {
+    display: none;
+}
+
+.after-portlet.after-portlet-lang {
+    display: none;
+}
+
+.toc {
+    width: 100%;
+    padding: 15px;
+    border-radius: 5px;
+}
