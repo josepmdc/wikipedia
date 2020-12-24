@@ -1,3 +1,4 @@
+
 body {
     background-color: #fff0;
 }
@@ -13,7 +14,7 @@ dl {
 
 #content {
     margin: auto;
-    width: 35%;
+    width: 45%;
     text-align: justify;
     margin-top: 30px;
 }
@@ -49,13 +50,11 @@ dl {
 img {
     background-color: white;
     border-radius: 3px;
-    padding: 10px;
 }
 
 .thumbinner {
     border: #fff0 !important;
     background-color: #fff0 !important;
-    width: 100% !important;
 }
 
 .thumbimage {
@@ -93,4 +92,19 @@ img {
     width: 100%;
     padding: 15px;
     border-radius: 5px;
+}
+
+.infobox.biography {
+    position: absolute !important;
+    left: 100% !important;
+}
+
+.vertical-navbox {
+    position: absolute !important;
+    left: 105% !important;
+}
+
+.infobox  {
+    position: absolute !important;
+    left: 105% !important;
 }
