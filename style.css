@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Cardo&display=swap');
 
 body {
     background-color: #fff0;
+    font-family: 'Cardo', serif;
 }
 
 h1 {
@@ -14,7 +16,7 @@ dl {
 
 #content {
     margin: auto;
-    width: 45%;
+    width: 40%;
     text-align: justify;
     margin-top: 30px;
 }
@@ -44,7 +46,7 @@ dl {
 }
 
 .mw-body-content {
-    font-size: 1em;
+    font-size: 1.1em;
 }
 
 img {
