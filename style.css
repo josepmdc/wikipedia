@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cardo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cardo&family=Fira+Code&display=swap');
 
 body {
     background-color: #fff0;
@@ -109,4 +109,9 @@ img {
 .infobox  {
     position: absolute !important;
     left: 105% !important;
+}
+
+pre {
+    font-family: 'Fira Code', monospace;
+    font-size: 0.75em;
 }
