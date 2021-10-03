@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Cardo&family=Fira+Code&display=swap');
+@import url('https://cdn.rawgit.com/dreampulse/computer-modern-web-font/master/fonts.css');
 
 body {
     background-color: #fff0;
-    font-family: 'Cardo', serif;
+    /*font-family: 'Cardo', serif;*/
+    font-family: "Computer Modern Serif", serif;
 }
 
 h1 {
@@ -52,6 +54,16 @@ dl {
 img {
     background-color: white;
     border-radius: 3px;
+}
+
+dl .mwe-math-fallback-image-inline, p .image img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+dl {
+    text-align: left;
 }
 
 .thumbinner {
